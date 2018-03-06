@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="newlogfile" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping ext="zones" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
