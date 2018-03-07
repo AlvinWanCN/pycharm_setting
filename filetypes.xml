@@ -7,8 +7,10 @@
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping ext="zones" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="job" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="zone" type="PLAIN_TEXT" />
+      <mapping ext="item" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
