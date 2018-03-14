@@ -13,6 +13,7 @@
       <mapping ext="d" type="PLAIN_TEXT" />
       <mapping ext="zone" type="PLAIN_TEXT" />
       <mapping ext="item" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
