@@ -1,3 +1,6 @@
 <code_scheme name="Default">
   <option name="RIGHT_MARGIN" value="121" />
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
 </code_scheme>
