@@ -4,10 +4,12 @@
     <extensionMap>
       <mapping pattern="*.pub_pxe_default.md" type="PLAIN_TEXT" />
       <mapping pattern="newlogfile" type="PLAIN_TEXT" />
+      <mapping pattern="master" type="PLAIN_TEXT" />
       <mapping pattern="readme.md" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="ikev2-vpn-server" type="PLAIN_TEXT" />
+      <mapping pattern="minion" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="zones" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
