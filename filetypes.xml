@@ -3,12 +3,13 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="*.pub_pxe_default.md" type="PLAIN_TEXT" />
+      <mapping pattern="master" type="PLAIN_TEXT" />
       <mapping pattern="newlogfile" type="PLAIN_TEXT" />
       <mapping pattern="mariadb" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="minion" type="PLAIN_TEXT" />
+      <mapping pattern="yum_iso_local" type="PLAIN_TEXT" />
       <mapping pattern="haproxy" type="PLAIN_TEXT" />
-      <mapping pattern="master" type="PLAIN_TEXT" />
       <mapping pattern="ikev2-vpn-server" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="nginx" type="PLAIN_TEXT" />
