@@ -12,6 +12,7 @@
       <mapping pattern="haproxy" type="PLAIN_TEXT" />
       <mapping pattern="iptables,rst" type="PLAIN_TEXT" />
       <mapping pattern="master" type="PLAIN_TEXT" />
+      <mapping pattern="git" type="PLAIN_TEXT" />
       <mapping pattern="ikev2-vpn-server" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="nginx" type="PLAIN_TEXT" />
