@@ -7,6 +7,7 @@
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="mariadb" type="PLAIN_TEXT" />
       <mapping pattern="install_python" type="PLAIN_TEXT" />
+      <mapping pattern="grep" type="PLAIN_TEXT" />
       <mapping pattern="firewall" type="PLAIN_TEXT" />
       <mapping pattern="minion" type="PLAIN_TEXT" />
       <mapping pattern="yum_iso_local" type="PLAIN_TEXT" />
