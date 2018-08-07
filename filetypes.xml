@@ -20,6 +20,7 @@
       <mapping pattern="ikev2-vpn-server" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="011-mysqldump" type="PLAIN_TEXT" />
+      <mapping pattern="010-fastdfs" type="PLAIN_TEXT" />
       <mapping pattern="nginx" type="PLAIN_TEXT" />
       <mapping pattern="exec.rst" type="PLAIN_TEXT" />
       <mapping pattern="readme.md" type="PLAIN_TEXT" />
