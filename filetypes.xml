@@ -11,6 +11,7 @@
       <mapping pattern="grep" type="PLAIN_TEXT" />
       <mapping pattern="001-rhce7" type="PLAIN_TEXT" />
       <mapping pattern="firewall" type="PLAIN_TEXT" />
+      <mapping pattern="014-cut" type="PLAIN_TEXT" />
       <mapping pattern="002-author_introduction" type="PLAIN_TEXT" />
       <mapping pattern="minion" type="PLAIN_TEXT" />
       <mapping pattern="yum_iso_local" type="PLAIN_TEXT" />
