@@ -16,6 +16,7 @@
       <mapping pattern="minion" type="PLAIN_TEXT" />
       <mapping pattern="yum_iso_local" type="PLAIN_TEXT" />
       <mapping pattern="haproxy" type="PLAIN_TEXT" />
+      <mapping pattern="002-cp" type="PLAIN_TEXT" />
       <mapping pattern="iptables,rst" type="PLAIN_TEXT" />
       <mapping pattern="master" type="PLAIN_TEXT" />
       <mapping pattern="git" type="PLAIN_TEXT" />
