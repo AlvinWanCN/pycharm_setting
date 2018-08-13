@@ -19,6 +19,7 @@
       <mapping pattern="haproxy" type="PLAIN_TEXT" />
       <mapping pattern="002-cp" type="PLAIN_TEXT" />
       <mapping pattern="iptables,rst" type="PLAIN_TEXT" />
+      <mapping pattern="012-echo" type="PLAIN_TEXT" />
       <mapping pattern="master" type="PLAIN_TEXT" />
       <mapping pattern="git" type="PLAIN_TEXT" />
       <mapping pattern="ikev2-vpn-server" type="PLAIN_TEXT" />
