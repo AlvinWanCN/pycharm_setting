@@ -6,6 +6,7 @@
       <mapping pattern="005-interface_manage/readme" type="PLAIN_TEXT" />
       <mapping pattern="NetoworkManager" type="PLAIN_TEXT" />
       <mapping pattern="newlogfile" type="PLAIN_TEXT" />
+      <mapping pattern="001-useradd" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="mariadb" type="PLAIN_TEXT" />
       <mapping pattern="install_python" type="PLAIN_TEXT" />
@@ -27,6 +28,7 @@
       <mapping pattern="011-mysqldump" type="PLAIN_TEXT" />
       <mapping pattern="010-fastdfs" type="PLAIN_TEXT" />
       <mapping pattern="nginx" type="PLAIN_TEXT" />
+      <mapping pattern="002-passwd" type="PLAIN_TEXT" />
       <mapping pattern="exec.rst" type="PLAIN_TEXT" />
       <mapping pattern="readme.md" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
