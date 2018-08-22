@@ -10,6 +10,7 @@
       <mapping pattern="012-echo" type="PLAIN_TEXT" />
       <mapping pattern="002-cp" type="PLAIN_TEXT" />
       <mapping pattern="nginx" type="PLAIN_TEXT" />
+      <mapping pattern="005-tcp_forward" type="PLAIN_TEXT" />
       <mapping pattern="install_python" type="PLAIN_TEXT" />
       <mapping pattern="readme.md" type="PLAIN_TEXT" />
       <mapping pattern="deployment" type="PLAIN_TEXT" />
