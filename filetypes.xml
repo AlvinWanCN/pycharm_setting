@@ -35,6 +35,7 @@
       <mapping pattern="001-useradd" type="PLAIN_TEXT" />
       <mapping pattern="yum_iso_local" type="PLAIN_TEXT" />
       <mapping pattern="iptables,rst" type="PLAIN_TEXT" />
+      <mapping pattern="006-ssl" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="zones" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
