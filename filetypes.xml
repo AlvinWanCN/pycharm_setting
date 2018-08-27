@@ -26,6 +26,7 @@
       <mapping pattern="011-mysqldump" type="PLAIN_TEXT" />
       <mapping pattern="002-passwd" type="PLAIN_TEXT" />
       <mapping pattern="minion" type="PLAIN_TEXT" />
+      <mapping pattern="007-create" type="PLAIN_TEXT" />
       <mapping pattern="001-rhce7" type="PLAIN_TEXT" />
       <mapping pattern="010-fastdfs" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
