@@ -3,6 +3,7 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="*.pub_pxe_default.md" type="PLAIN_TEXT" />
+      <mapping pattern="003-dig" type="PLAIN_TEXT" />
       <mapping pattern="newlogfile" type="PLAIN_TEXT" />
       <mapping pattern="firewall" type="PLAIN_TEXT" />
       <mapping pattern="ikev2-vpn-server" type="PLAIN_TEXT" />
