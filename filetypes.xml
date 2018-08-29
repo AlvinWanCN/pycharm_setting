@@ -23,6 +23,7 @@
       <mapping pattern="exec.rst" type="PLAIN_TEXT" />
       <mapping pattern="grep" type="PLAIN_TEXT" />
       <mapping pattern="git" type="PLAIN_TEXT" />
+      <mapping pattern="006-tag" type="PLAIN_TEXT" />
       <mapping pattern="etcd" type="PLAIN_TEXT" />
       <mapping pattern="011-mysqldump" type="PLAIN_TEXT" />
       <mapping pattern="002-passwd" type="PLAIN_TEXT" />
