@@ -15,7 +15,6 @@
       <mapping pattern="install_python" type="PLAIN_TEXT" />
       <mapping pattern="readme.md" type="PLAIN_TEXT" />
       <mapping pattern="deployment" type="PLAIN_TEXT" />
-      <mapping pattern="005-error_fix" type="PLAIN_TEXT" />
       <mapping pattern="001-sudo" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="NetoworkManager" type="PLAIN_TEXT" />
@@ -27,8 +26,10 @@
       <mapping pattern="006-tag" type="PLAIN_TEXT" />
       <mapping pattern="etcd" type="PLAIN_TEXT" />
       <mapping pattern="011-mysqldump" type="PLAIN_TEXT" />
+      <mapping pattern="005-error_fix" type="PLAIN_TEXT" />
       <mapping pattern="002-passwd" type="PLAIN_TEXT" />
       <mapping pattern="minion" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="007-create" type="PLAIN_TEXT" />
       <mapping pattern="001-rhce7" type="PLAIN_TEXT" />
       <mapping pattern="010-fastdfs" type="PLAIN_TEXT" />
