@@ -14,7 +14,7 @@
       <mapping pattern="005-tcp_forward" type="PLAIN_TEXT" />
       <mapping pattern="install_python" type="PLAIN_TEXT" />
       <mapping pattern="readme.md" type="PLAIN_TEXT" />
-      <mapping pattern="deployment" type="PLAIN_TEXT" />
+      <mapping pattern="006-ssl" type="PLAIN_TEXT" />
       <mapping pattern="001-sudo" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="NetoworkManager" type="PLAIN_TEXT" />
@@ -22,6 +22,7 @@
       <mapping pattern="014-cut" type="PLAIN_TEXT" />
       <mapping pattern="exec.rst" type="PLAIN_TEXT" />
       <mapping pattern="grep" type="PLAIN_TEXT" />
+      <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="git" type="PLAIN_TEXT" />
       <mapping pattern="006-tag" type="PLAIN_TEXT" />
       <mapping pattern="etcd" type="PLAIN_TEXT" />
@@ -33,18 +34,18 @@
       <mapping pattern="007-create" type="PLAIN_TEXT" />
       <mapping pattern="001-rhce7" type="PLAIN_TEXT" />
       <mapping pattern="010-fastdfs" type="PLAIN_TEXT" />
-      <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping pattern="deployment" type="PLAIN_TEXT" />
       <mapping pattern="haproxy" type="PLAIN_TEXT" />
       <mapping pattern="mariadb" type="PLAIN_TEXT" />
       <mapping pattern="master" type="PLAIN_TEXT" />
       <mapping pattern="001-useradd" type="PLAIN_TEXT" />
       <mapping pattern="yum_iso_local" type="PLAIN_TEXT" />
       <mapping pattern="iptables,rst" type="PLAIN_TEXT" />
-      <mapping pattern="006-ssl" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="zones" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="job" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="d" type="PLAIN_TEXT" />
       <mapping ext="zone" type="PLAIN_TEXT" />
       <mapping ext="item" type="PLAIN_TEXT" />
