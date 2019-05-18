@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="*.pub_pxe_default.md" type="PLAIN_TEXT" />
       <mapping pattern="003-dig" type="PLAIN_TEXT" />
+      <mapping pattern="test2" type="PLAIN_TEXT" />
       <mapping pattern="newlogfile" type="PLAIN_TEXT" />
       <mapping pattern="firewall" type="PLAIN_TEXT" />
       <mapping pattern="ikev2-vpn-server" type="PLAIN_TEXT" />
@@ -15,36 +16,36 @@
       <mapping pattern="005-tcp_forward" type="PLAIN_TEXT" />
       <mapping pattern="002-install_plugins" type="PLAIN_TEXT" />
       <mapping pattern="install_python" type="PLAIN_TEXT" />
+      <mapping pattern="deployment" type="PLAIN_TEXT" />
       <mapping pattern="005-name_notation" type="PLAIN_TEXT" />
+      <mapping pattern="005-error_fix" type="PLAIN_TEXT" />
       <mapping pattern="001-sudo" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="NetoworkManager" type="PLAIN_TEXT" />
       <mapping pattern="readme.md" type="PLAIN_TEXT" />
       <mapping pattern="025-lynis" type="PLAIN_TEXT" />
-      <mapping pattern="011-stat" type="PLAIN_TEXT" />
       <mapping pattern="005-interface_manage/readme" type="PLAIN_TEXT" />
       <mapping pattern="014-cut" type="PLAIN_TEXT" />
       <mapping pattern="ssh" type="PLAIN_TEXT" />
       <mapping pattern="exec.rst" type="PLAIN_TEXT" />
       <mapping pattern="grep" type="PLAIN_TEXT" />
-      <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="git" type="PLAIN_TEXT" />
       <mapping pattern="014-base64" type="PLAIN_TEXT" />
       <mapping pattern="006-tag" type="PLAIN_TEXT" />
       <mapping pattern="006-ssl" type="PLAIN_TEXT" />
       <mapping pattern="etcd" type="PLAIN_TEXT" />
       <mapping pattern="013-glusterfs" type="PLAIN_TEXT" />
+      <mapping pattern="005-burpsuite" type="PLAIN_TEXT" />
       <mapping pattern="011-mysqldump" type="PLAIN_TEXT" />
-      <mapping pattern="005-error_fix" type="PLAIN_TEXT" />
       <mapping pattern="009-telnet-server" type="PLAIN_TEXT" />
       <mapping pattern="002-passwd" type="PLAIN_TEXT" />
       <mapping pattern="minion" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="007-create" type="PLAIN_TEXT" />
-      <mapping pattern="test2" type="PLAIN_TEXT" />
+      <mapping pattern="011-stat" type="PLAIN_TEXT" />
       <mapping pattern="001-rhce7" type="PLAIN_TEXT" />
       <mapping pattern="010-fastdfs" type="PLAIN_TEXT" />
-      <mapping pattern="deployment" type="PLAIN_TEXT" />
+      <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="haproxy" type="PLAIN_TEXT" />
       <mapping pattern="mariadb" type="PLAIN_TEXT" />
       <mapping pattern="master" type="PLAIN_TEXT" />
